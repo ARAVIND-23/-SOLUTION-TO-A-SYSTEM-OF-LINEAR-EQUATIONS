@@ -30,7 +30,9 @@ print(result)
 
 
 ## Output:
-![Screenshot 2024-02-28 083935](https://github.com/ARAVIND-23/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/138970182/c8bccf2e-6de0-44f3-8fc7-b2d5b809c7f1)
+![Screenshot 2024-04-15 185711](https://github.com/ARAVIND-23/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/138970182/e40ee495-1b3c-49a8-8ad7-3b55253a14a8)
+
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
